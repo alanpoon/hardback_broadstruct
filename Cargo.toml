@@ -1,5 +1,5 @@
 [package]
-name = "hardback_broadstruct"
+name = "hardback_boardstruct"
 version = "0.1.0"
 authors = ["alanpoon <brightshadowx@gmail.com>"]
 edition = "2018"
